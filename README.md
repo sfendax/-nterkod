@@ -1,3 +1,3 @@
 İnterkod
 -- Haber Projesi --
-MVVM'itam değil hata verebilir
+MVVM'i tam değil hata verebilir
